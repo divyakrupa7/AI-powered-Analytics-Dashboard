@@ -3,7 +3,7 @@
 A modern, responsive dashboard built with **React**, **Tailwind CSS**, **Chart.js**, and **Material UI**, simulating real-time sales insights with AI-generated summaries.
 
 ## Deployemnt Link
-- 
+- ai-powered-analytics-dashboard-l8rzsc2sb.vercel.app
 
 ##  Features present
 -  Line, Bar, Pie Charts
