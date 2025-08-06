@@ -1,0 +1,7 @@
+While building the AI-powered analytics dashboard, I used AI tools like ChatGPT to assist me throughout the development process — mainly for brainstorming ideas, fixing issues faster, and getting help with React + Tailwind integration.
+
+Initially, I had a general idea of what the dashboard should look like, but AI helped me figure out how to structure it better with reusable components like LineChart, BarChart, PieChart, and AISummary. I already knew some basics, but whenever I got stuck with features like dark mode, real-time updates, or exporting CSV, AI helped me understand what to do next — almost like having a tutor sitting next to me.
+
+I didn't rely entirely on AI to generate the whole project. I built the components myself and used ChatGPT mainly to speed things up when I wasn’t sure how to implement a particular logic (e.g., updating chart data every 5 seconds or integrating MUI with Tailwind). It also helped me debug a few small issues in useEffect, and gave me clear steps for deploying to Vercel.
+
+Overall, using AI saved me time and helped me stay focused instead of switching tabs to read long documentation or StackOverflow threads. I still had to write, modify, and understand the code myself, but having AI helped guide and correct me along the way.
